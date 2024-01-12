@@ -1,0 +1,18 @@
+.heading{
+  font-size: 35px;
+  font-weight: 900;
+  text-align: center;
+  margin: 50px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin: 10px;
+  
+}
+.image{
+  width: 600px;
+  height: 600px;
+}
